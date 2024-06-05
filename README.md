@@ -1,0 +1,1 @@
+With the architecture as shown in the figure: 4 layers, where the first hidden layer uses the ReLU function, the second hidden layer uses the sigmoid function, and the output layer uses the softmax. Calculate feedforward and backpropagation using mini-batch gradient descent with a batch size of 200.
